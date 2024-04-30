@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Jarrod Lilkendey, I am a software engineer based in Geelong, Australia.
+
+- 🕘 I built a [time tracker](https://168hoursapp.com) web application using NextJS: [repo](https://github.com/programmablewealth/168-hours), [docs](https://jarrodlilkendey.com/168-hours/)
+- 📈 I built a [productivity](https://nextactionslist.com) web application based on the book Getting Things Done using NextJS: [repo](https://github.com/programmablewealth/gtd-saas), [docs](tbd)
+
 <!--
 **programmablewealth/programmablewealth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
