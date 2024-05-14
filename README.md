@@ -18,7 +18,7 @@ My name is Jarrod Lilkendey, I am a software engineer based in Geelong, Australi
 - next-test-api-route-handler is used for integration testing on API routes
 - Jest is used as a Test Runner
 - The application is built into a Docker image and is hosted on a Digital Ocean VPS
-- The Digital Ocean VPS hosts more than one of my web applications in different Docker containers and NGINX proxy manager is used as a reverse proxy which uses the hostname to proxy through to the Docker container
+- The Digital Ocean VPS hosts more than one of my web applications in different Docker containers and NGINX proxy manager is used as a reverse proxy which uses the hostname to route through to the correct Docker container
 - DNS records are managed through CloudFlare and incoming web traffic to the Digital Ocean Droplet is whitelisted for only CloudFlare's IP addresses for DDoS mitigation
 - GitHub Actions is used for CI/CD
 - Monitoring is setup via Uptime Kuma that runs within my homelab, which every 60 seconds verifies the website is up and the TLS certificate is valid
