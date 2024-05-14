@@ -7,6 +7,21 @@ My name is Jarrod Lilkendey, I am a software engineer based in Geelong, Australi
 - 🕘 I built a [time tracker](https://168hoursapp.com) web application using NextJS: [repo](https://github.com/programmablewealth/168-hours), [docs](https://jarrodlilkendey.com/168-hours/)
 - 📈 I built a [productivity](https://nextactionslist.com) web application based on the book Getting Things Done using NextJS: [repo](https://github.com/programmablewealth/gtd-saas), [docs](tbd)
 
+#### 168 Hours App
+
+- Try out [168 Hours App time tracker](https://168hoursapp.com)
+- The application uses the following Tech Stack; React with NextJS, Typescript, Tailwind CSS, NextAuth and Prisma
+- The goal of this project was to gain further experience with NextJS with the focus of building it in a way that is fully testable
+- React Testing library is used for Unit testing
+- Cypress is used for running integration and E2E tests
+- next-test-api-route-handler is used for integration testing on API routes
+- Jest is used as a Test Runner
+- The application is built into a Docker image and is hosted on a Digital Ocean VPS
+- The Digital Ocean VPS hosts more than one of my web applications in different Docker containers and NGINX proxy manager is used as a reverse proxy which uses the hostname to proxy through to the Docker container
+- DNS records are managed through CloudFlare and incoming web traffic to the Digital Ocean Droplet is whitelisted for only CloudFlare's IP addresses for DDoS mitigation
+- GitHub Actions is used for CI/CD
+- Monitoring is setup via Uptime Kuma that runs within my homelab, which every 60 seconds verifies the website is up and the TLS certificate is valid
+
 <!--
 **programmablewealth/programmablewealth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
