@@ -12,7 +12,7 @@ My name is Jarrod Lilkendey, I am a software engineer based in Geelong, Australi
 - Try out the [168 Hours App time tracker](https://168hoursapp.com)
 - The application uses the following Tech Stack; React with NextJS, Typescript, Tailwind CSS, NextAuth and Prisma
 - The goal of this project was to gain further experience with NextJS with the focus of building it in a way that is fully testable
-- The secondary goal was to gain experience self hosting a NextJS application outside of Vercel
+- The secondary goal was to gain experience self hosting a NextJS application outside of Vercel's hosting infrastructure
 - React Testing library is used for Unit testing
 - Cypress is used for running integration and E2E tests
 - next-test-api-route-handler is used for integration testing on API routes
