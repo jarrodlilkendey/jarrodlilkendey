@@ -5,7 +5,7 @@ My name is Jarrod Lilkendey, I am a software engineer based in Geelong, Australi
 ### Portfolio
 
 - 🕘 I built a [time tracker](https://168hoursapp.com) web application using NextJS: [repo](https://github.com/jarrodlilkendey/168-hours), [docs](https://jarrodlilkendey.com/168-hours/)
-- 📈 I built a [productivity](https://nextactionslist.com) web application based on the book Getting Things Done by David Allen using NextJS: [repo](https://github.com/jarrodlilkendey/gtd-saas), [docs](tbd)
+- 📈 I built a [productivity](https://nextactionslist.com) web application based on the book Getting Things Done by David Allen using NextJS: [repo](https://github.com/jarrodlilkendey/gtd-saas)
 
 #### 168 Hours App
 
