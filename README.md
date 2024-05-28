@@ -14,8 +14,7 @@ My name is Jarrod Lilkendey, I am a software engineer based in Geelong, Australi
 - The goal of this project was to gain further experience with NextJS with the focus of building it in a way that is fully testable
 - The secondary goal was to gain experience self hosting a NextJS application outside of Vercel's hosting infrastructure
 - React Testing library is used for Unit testing
-- Cypress is used for running integration and E2E tests
-- next-test-api-route-handler is used for integration testing on API routes
+- Cypress is used for running integration, E2E tests and integration testing on API routes
 - Jest is used as a Test Runner
 - The application is built into a Docker image and is hosted on a Digital Ocean VPS
 - The Digital Ocean VPS hosts more than one of my web applications in different Docker containers and NGINX proxy manager is used as a reverse proxy which uses the hostname to route through to the correct Docker container
